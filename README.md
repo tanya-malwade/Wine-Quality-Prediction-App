@@ -49,7 +49,7 @@ Wine-Quality-Prediction/
 4. Machine Learning model predicts wine quality.
 5. Predicted quality score is displayed on screen.
 
-# 📊 Input Features
+# Input Features
 
 The model uses the following wine parameters:
 
@@ -88,7 +88,7 @@ streamlit run app.py
 
 ---
 
-# 📦 Requirements
+# Requirements
 
 Create a `requirements.txt` file with:
 
